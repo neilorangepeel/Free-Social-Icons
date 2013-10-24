@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>Delicious</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Delicious" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M0,25 C0,38.8071194 11.1928806,50 25,50 C38.8071194,50 50,38.8071194 50,25 C50,11.1928806 38.8071194,0 25,0 C11.1928806,0 0,11.1928806 0,25 Z M3,25 C3,37.1502651 12.8497349,47 25,47 C37.1502651,47 47,37.1502651 47,25 C47,12.8497349 37.1502651,3 25,3 C12.8497349,3 3,12.8497349 3,25 Z M17.8337676,14 C15.7252246,14 14,15.7253594 14,17.8339023 L14,25.5 L14,33.1662773 C14,35.2760332 15.7252246,37 17.8337676,37 L25.5,37 L33.167625,37 C35.276123,37 37,35.2760781 37,33.1662773 L37,25.5 L37,17.8339023 C37,15.7253594 35.276123,14 33.167625,14 L25.5,14 L17.8337676,14 Z M25.5,35.8499551 L25.5,25.5 L15.15,25.5 L15.15,17.8339023 C15.15,16.3538164 16.3539062,15.15 17.8337676,15.15 L25.5,15.15 L25.5,25.5 L35.85,25.5 L35.8500449,33.1662773 C35.8500449,34.6460039 34.6467227,35.8499551 33.167625,35.8499551 L25.5,35.8499551 Z M25.5,35.8499551" id="Oval-1" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
